@@ -1,4 +1,4 @@
-# Master-Spring-Framework-Spring-Boot-REST-JPA-Hibernate
+# Master Spring Framework, Spring Boot, REST, JPA, Hibernate
 
 
 <h3>Apache Maven Installation</h3>
